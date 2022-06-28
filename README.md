@@ -2,7 +2,7 @@
 
 ## Background
 
-See the history for why I'm not entirely sure. But there are three primary plots being made here. The idea being that if you obtain significances from two different experiments and you want to combine them in a way to make a statement about them, you can combine them "democratically". As [@cranmer](https://github.com/cranmer) states, there are an infinite number of ways to combine p-values, there is no "right way" as it's an under-specified problem.
+See the history for why I'm not entirely sure. But there are three primary plots being made here. The idea being that if you obtain significances from two different experiments and you want to combine them in a way to make a statement about them, you can combine them "democratically". As [@cranmer](https://github.com/cranmer) [states](https://twitter.com/KyleCranmer/status/1541738817048252416), there are an infinite number of ways to combine p-values, there is no "right way" as it's an under-specified problem.
 
 - `hdp0` is a plot that shows the combined significance
 - `hsqd` shows the standard quadrature sum
